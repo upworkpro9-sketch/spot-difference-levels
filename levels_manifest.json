@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-09-05",
+  "repo": "upworkpro9-sketch/spot-difference-levels",
+  "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/levels/",
+  "levels": [
+    {
+      "id": 31,
+      "title": "Rustic Italian Pizzeria",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 31.webp",
+      "imageUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/levels/Level%2031.webp",
+      "differences": [
+        {
+          "id": "d_31_1",
+          "name": "Wooden Spoon",
+          "xPercent": 21.6,
+          "yPercent": 36.9,
+          "radiusPercent": 8.5,
+          "description": "Wooden cooking spoon in the red terracotta pot removed"
+        },
+        {
+          "id": "d_31_2",
+          "name": "Oven Iron Door",
+          "xPercent": 55.0,
+          "yPercent": 23.8,
+          "altXPercent": 45.0,
+          "altYPercent": 23.0,
+          "radiusPercent": 8.5,
+          "description": "Pizza oven iron door swung open on top, closed shut on bottom"
+        },
+        {
+          "id": "d_31_3",
+          "name": "Olive Oil Stopper",
+          "xPercent": 85.3,
+          "yPercent": 26.9,
+          "radiusPercent": 7.5,
+          "description": "Curved stainless steel pour nozzle changed to wooden cork stopper"
+        },
+        {
+          "id": "d_31_4",
+          "name": "Pizza Cheese Drip",
+          "xPercent": 46.3,
+          "yPercent": 74.9,
+          "radiusPercent": 6.5,
+          "description": "Melted mozzarella cheese dripping over pizza edge removed"
+        },
+        {
+          "id": "d_31_5",
+          "name": "Rolling Pin Handle",
+          "xPercent": 34.8,
+          "yPercent": 85.6,
+          "radiusPercent": 8.0,
+          "description": "Right wooden knob handle of the rolling pin removed"
+        }
+      ]
+    }
+  ]
+}
