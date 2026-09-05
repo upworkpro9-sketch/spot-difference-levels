@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "lastUpdated": "2026-09-05",
   "repo": "upworkpro9-sketch/spot-difference-levels",
-  "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/levels/",
+  "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/",
   "levels": [
     {
       "id": 31,
@@ -11,7 +11,7 @@
       "timeLimit": 120,
       "totalDifferences": 5,
       "imageFileName": "Level 31.webp",
-      "imageUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/levels/Level%2031.webp",
+      "imageUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/Level%2031.webp",
       "differences": [
         {
           "id": "d_31_1",
