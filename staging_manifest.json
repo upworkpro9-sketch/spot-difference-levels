@@ -117,6 +117,68 @@
           "description": "High overhead bamboo handle on teapot changed to side green handle"
         }
       ]
+    },
+    {
+      "id": 33,
+      "title": "Sweet Bakery & Dessert Cafe",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 33.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2033.webp",
+      "differences": [
+        {
+          "id": "d_33_1",
+          "name": "Glass Cloche Knob",
+          "xPercent": 12.7,
+          "yPercent": 20.6,
+          "altXPercent": 12.7,
+          "altYPercent": 20.8,
+          "radiusPercent": 6.1,
+          "description": "Wooden finial knob on top of glass cake cloche dome"
+        },
+        {
+          "id": "d_33_2",
+          "name": "Cupcake Wafer Roll",
+          "xPercent": 18.3,
+          "yPercent": 58.9,
+          "altXPercent": 18.3,
+          "altYPercent": 59.1,
+          "radiusPercent": 8.9,
+          "description": "Striped chocolate wafer stick inserted in strawberry cupcake"
+        },
+        {
+          "id": "d_33_3",
+          "name": "Cake Slice Filling",
+          "xPercent": 47.0,
+          "yPercent": 52.9,
+          "altXPercent": 46.8,
+          "altYPercent": 53.7,
+          "radiusPercent": 9.6,
+          "description": "Layer cake slice interior filling color (pink strawberry vs white cream)"
+        },
+        {
+          "id": "d_33_4",
+          "name": "Waffle Maker",
+          "xPercent": 52.3,
+          "yPercent": 24.2,
+          "altXPercent": 52.3,
+          "altYPercent": 27.5,
+          "radiusPercent": 12.9,
+          "description": "Electric waffle iron opened showing baking grid vs closed position"
+        },
+        {
+          "id": "d_33_5",
+          "name": "Sundae Spoon",
+          "xPercent": 73.3,
+          "yPercent": 31.5,
+          "altXPercent": 73.3,
+          "altYPercent": 31.6,
+          "radiusPercent": 10.8,
+          "description": "Long ornate silver dessert spoon inside ice cream glass sundae"
+        }
+      ]
     }
-  ]
+  ],
+  "totalLevels": 3
 }
