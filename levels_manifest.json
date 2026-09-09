@@ -361,7 +361,68 @@
           "description": "Large horizontal acacia tree branch above the elephant"
         }
       ]
+    },
+    {
+      "id": 37,
+      "title": "Rustic Flower Shop & Florist Table",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 37.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2037.webp",
+      "differences": [
+        {
+          "id": "d_37_1",
+          "name": "Sunflower Foliage",
+          "xPercent": 9.8,
+          "yPercent": 67.4,
+          "altXPercent": 9.8,
+          "altYPercent": 67.4,
+          "radiusPercent": 13.0,
+          "description": "Lush broad green sunflower leaves on the potted sunflower plant"
+        },
+        {
+          "id": "d_37_2",
+          "name": "Watering Can Rosette",
+          "xPercent": 30.4,
+          "yPercent": 24.9,
+          "altXPercent": 30.4,
+          "altYPercent": 24.3,
+          "radiusPercent": 6.3,
+          "description": "Perforated shower nozzle / rosette head on the turquoise metal watering can spout"
+        },
+        {
+          "id": "d_37_3",
+          "name": "Bouquet Ribbon Bow",
+          "xPercent": 66.1,
+          "yPercent": 67.0,
+          "altXPercent": 66.1,
+          "altYPercent": 65.1,
+          "radiusPercent": 9.4,
+          "description": "White silk ribbon tied in a bow around kraft paper wrapped flower bouquet"
+        },
+        {
+          "id": "d_37_4",
+          "name": "Pot Saucer Tray",
+          "xPercent": 75.4,
+          "yPercent": 55.2,
+          "altXPercent": 75.2,
+          "altYPercent": 54.6,
+          "radiusPercent": 7.0,
+          "description": "White ceramic drip plate / saucer tray under white fluted potted peace lily plant"
+        },
+        {
+          "id": "d_37_5",
+          "name": "Pruning Shears",
+          "xPercent": 92.4,
+          "yPercent": 54.4,
+          "altXPercent": 92.5,
+          "altYPercent": 54.9,
+          "radiusPercent": 6.6,
+          "description": "Garden flower trimming pruners / shears handle color changed from red to black"
+        }
+      ]
     }
   ],
-  "totalLevels": 6
+  "totalLevels": 7
 }
