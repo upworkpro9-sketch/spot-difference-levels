@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-05",
+  "lastUpdated": "2026-09-09",
   "repo": "upworkpro9-sketch/spot-difference-levels",
   "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/",
   "levels": [
@@ -54,6 +54,67 @@
           "yPercent": 85.6,
           "radiusPercent": 8.0,
           "description": "Right wooden knob handle of the rolling pin removed"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Japanese Ramen & Sushi Bar",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 32.webp",
+      "imageUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/Level%2032.webp",
+      "differences": [
+        {
+          "id": "d_32_1",
+          "name": "Ramen Spoon",
+          "xPercent": 9.7,
+          "yPercent": 60.0,
+          "altXPercent": 9.7,
+          "altYPercent": 59.8,
+          "radiusPercent": 14.1,
+          "description": "Red ceramic soup spoon inside ramen bowl removed"
+        },
+        {
+          "id": "d_32_2",
+          "name": "Dim Sum Steamer",
+          "xPercent": 26.8,
+          "yPercent": 41.5,
+          "altXPercent": 26.8,
+          "altYPercent": 38.2,
+          "radiusPercent": 11.8,
+          "description": "Bamboo dumpling steamer open showing dumplings on top, covered with closed lid on bottom"
+        },
+        {
+          "id": "d_32_3",
+          "name": "Sauce Bottle Stopper",
+          "xPercent": 52.1,
+          "yPercent": 35.2,
+          "altXPercent": 52.1,
+          "altYPercent": 36.2,
+          "radiusPercent": 6.1,
+          "description": "Black sauce bottle pour spout open on top, cork stopper on bottom"
+        },
+        {
+          "id": "d_32_4",
+          "name": "Chopstick Rest",
+          "xPercent": 52.2,
+          "yPercent": 75.6,
+          "altXPercent": 52.2,
+          "altYPercent": 76.2,
+          "radiusPercent": 7.7,
+          "description": "Blue wavy porcelain chopstick rest changed to bamboo cylinder rest"
+        },
+        {
+          "id": "d_32_5",
+          "name": "Teapot Handle",
+          "xPercent": 87.4,
+          "yPercent": 33.4,
+          "altXPercent": 87.4,
+          "altYPercent": 33.1,
+          "radiusPercent": 11.0,
+          "description": "High overhead bamboo handle on teapot changed to side green handle"
         }
       ]
     }
