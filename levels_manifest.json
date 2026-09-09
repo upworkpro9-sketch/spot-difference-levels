@@ -239,7 +239,68 @@
           "description": "Folded knitted scarf on wooden street bench changed from red to navy blue"
         }
       ]
+    },
+    {
+      "id": 35,
+      "title": "Alpine Mountain Lake & Cabin",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 35.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2035.webp",
+      "differences": [
+        {
+          "id": "d_35_1",
+          "name": "Boat Oar",
+          "xPercent": 16.5,
+          "yPercent": 75.0,
+          "altXPercent": 16.5,
+          "altYPercent": 75.5,
+          "radiusPercent": 15.5,
+          "description": "Wooden oar / paddle resting across the wooden rowboat on shoreline"
+        },
+        {
+          "id": "d_35_2",
+          "name": "Pine Tree Branch",
+          "xPercent": 35.8,
+          "yPercent": 31.3,
+          "altXPercent": 35.8,
+          "altYPercent": 30.7,
+          "radiusPercent": 13.8,
+          "description": "Needle-covered pine tree branch extending into the sky and lake background"
+        },
+        {
+          "id": "d_35_3",
+          "name": "Pier Ladder",
+          "xPercent": 56.2,
+          "yPercent": 47.3,
+          "altXPercent": 56.2,
+          "altYPercent": 48.2,
+          "radiusPercent": 4.9,
+          "description": "Wooden swimming ladder attached to end of wooden dock pier entering water"
+        },
+        {
+          "id": "d_35_4",
+          "name": "Canoe Seat",
+          "xPercent": 69.2,
+          "yPercent": 53.1,
+          "altXPercent": 69.4,
+          "altYPercent": 53.2,
+          "radiusPercent": 5.0,
+          "description": "Wooden crossbar bench seat across the center of floating red canoe"
+        },
+        {
+          "id": "d_35_5",
+          "name": "Cabin Chimney",
+          "xPercent": 79.3,
+          "yPercent": 28.8,
+          "altXPercent": 79.3,
+          "altYPercent": 28.8,
+          "radiusPercent": 5.5,
+          "description": "Tall stone fireplace chimney on the roof of lakeside wooden cabin"
+        }
+      ]
     }
   ],
-  "totalLevels": 4
+  "totalLevels": 5
 }
