@@ -178,7 +178,68 @@
           "description": "Long ornate silver dessert spoon inside ice cream glass sundae"
         }
       ]
+    },
+    {
+      "id": 34,
+      "title": "Rainy City Taxi & Boutique",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 34.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2034.webp",
+      "differences": [
+        {
+          "id": "d_34_1",
+          "name": "Bicycle Bell",
+          "xPercent": 12.5,
+          "yPercent": 32.7,
+          "altXPercent": 12.5,
+          "altYPercent": 33.3,
+          "radiusPercent": 5.6,
+          "description": "Chrome round bell / headlight on vintage green bicycle parked on sidewalk"
+        },
+        {
+          "id": "d_34_2",
+          "name": "Taxi Mirror",
+          "xPercent": 20.0,
+          "yPercent": 46.8,
+          "altXPercent": 20.0,
+          "altYPercent": 46.4,
+          "radiusPercent": 5.5,
+          "description": "Yellow taxi driver side mirror changed from black to yellow body color"
+        },
+        {
+          "id": "d_34_3",
+          "name": "Taxi Roof Sign",
+          "xPercent": 33.1,
+          "yPercent": 32.4,
+          "altXPercent": 33.1,
+          "altYPercent": 32.6,
+          "radiusPercent": 7.3,
+          "description": "Illuminated white taxi rooftop sign removed from top of car"
+        },
+        {
+          "id": "d_34_4",
+          "name": "Umbrella Handle",
+          "xPercent": 72.0,
+          "yPercent": 37.6,
+          "altXPercent": 72.0,
+          "altYPercent": 37.8,
+          "radiusPercent": 7.3,
+          "description": "Curved wooden cane handle on blue umbrella in metal stand by shop door"
+        },
+        {
+          "id": "d_34_5",
+          "name": "Bench Scarf",
+          "xPercent": 87.3,
+          "yPercent": 56.8,
+          "altXPercent": 87.3,
+          "altYPercent": 54.8,
+          "radiusPercent": 9.5,
+          "description": "Folded knitted scarf on wooden street bench changed from red to navy blue"
+        }
+      ]
     }
   ],
-  "totalLevels": 3
+  "totalLevels": 4
 }
