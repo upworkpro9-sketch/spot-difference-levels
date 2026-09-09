@@ -300,7 +300,68 @@
           "description": "Tall stone fireplace chimney on the roof of lakeside wooden cabin"
         }
       ]
+    },
+    {
+      "id": 36,
+      "title": "African Safari Wildlife Oasis",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 36.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2036.webp",
+      "differences": [
+        {
+          "id": "d_36_1",
+          "name": "Zebra Tail Tuft",
+          "xPercent": 5.1,
+          "yPercent": 54.0,
+          "altXPercent": 5.1,
+          "altYPercent": 54.8,
+          "radiusPercent": 6.9,
+          "description": "Bushy black hair tuft at the end of zebra tail"
+        },
+        {
+          "id": "d_36_2",
+          "name": "Giraffe Horns",
+          "xPercent": 42.0,
+          "yPercent": 10.7,
+          "altXPercent": 42.0,
+          "altYPercent": 11.1,
+          "radiusPercent": 6.5,
+          "description": "Giraffe head ossicones (horns) and ears silhouette"
+        },
+        {
+          "id": "d_36_3",
+          "name": "Log Branch Fork",
+          "xPercent": 49.7,
+          "yPercent": 73.0,
+          "altXPercent": 49.7,
+          "altYPercent": 72.9,
+          "radiusPercent": 9.3,
+          "description": "Upright forked branch sticking out of fallen log in watering hole"
+        },
+        {
+          "id": "d_36_4",
+          "name": "Elephant Tusk",
+          "xPercent": 64.2,
+          "yPercent": 46.7,
+          "altXPercent": 64.2,
+          "altYPercent": 46.5,
+          "radiusPercent": 4.4,
+          "description": "Ivory curved tusk on African elephant"
+        },
+        {
+          "id": "d_36_5",
+          "name": "Acacia Tree Branch",
+          "xPercent": 67.5,
+          "yPercent": 23.2,
+          "altXPercent": 67.5,
+          "altYPercent": 21.2,
+          "radiusPercent": 12.3,
+          "description": "Large horizontal acacia tree branch above the elephant"
+        }
+      ]
     }
   ],
-  "totalLevels": 5
+  "totalLevels": 6
 }
