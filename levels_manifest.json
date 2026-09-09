@@ -544,7 +544,68 @@
           "description": "Navy blue athletic stripe across white towel on green courtside chair missing in bottom image"
         }
       ]
+    },
+    {
+      "id": 40,
+      "title": "Private Jet Airport Hangar",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 40.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2040.webp",
+      "differences": [
+        {
+          "id": "d_40_1",
+          "name": "Ground Power Plug",
+          "xPercent": 7.2,
+          "yPercent": 62.9,
+          "altXPercent": 7.2,
+          "altYPercent": 63.3,
+          "radiusPercent": 6.5,
+          "description": "Heavy duty electric power cable connector on generator cart changed from blue to yellow"
+        },
+        {
+          "id": "d_40_2",
+          "name": "Nose Cone Sensor",
+          "xPercent": 24.3,
+          "yPercent": 52.3,
+          "altXPercent": 24.3,
+          "altYPercent": 51.8,
+          "radiusPercent": 5.7,
+          "description": "Circular taxi light probe sensor on airplane cockpit nose cone missing in bottom image"
+        },
+        {
+          "id": "d_40_3",
+          "name": "Landing Gear Wheel Chock",
+          "xPercent": 24.3,
+          "yPercent": 77.4,
+          "altXPercent": 24.3,
+          "altYPercent": 77.1,
+          "radiusPercent": 6.5,
+          "description": "Safety wheel chock block under nose landing gear tire changed from yellow to blue"
+        },
+        {
+          "id": "d_40_4",
+          "name": "Airstair Door Railing",
+          "xPercent": 47.5,
+          "yPercent": 51.8,
+          "altXPercent": 47.5,
+          "altYPercent": 51.7,
+          "radiusPercent": 11.5,
+          "description": "Curved chrome boarding stair handrail structure and cabin doorway support rail"
+        },
+        {
+          "id": "d_40_5",
+          "name": "Winglet Tip Light",
+          "xPercent": 96.6,
+          "yPercent": 48.8,
+          "altXPercent": 96.7,
+          "altYPercent": 49.5,
+          "radiusPercent": 6.4,
+          "description": "Wingtip navigation position light on right upward winglet changed from red to blue"
+        }
+      ]
     }
   ],
-  "totalLevels": 9
+  "totalLevels": 10
 }
