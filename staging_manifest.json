@@ -483,7 +483,68 @@
           "description": "Rotary parameter knob on MIDI keyboard synthesizer changed from red to white"
         }
       ]
+    },
+    {
+      "id": 39,
+      "title": "Tennis Court & Country Club",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 39.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2039.webp",
+      "differences": [
+        {
+          "id": "d_39_1",
+          "name": "Water Bottle Cap",
+          "xPercent": 10.2,
+          "yPercent": 40.3,
+          "altXPercent": 10.2,
+          "altYPercent": 39.3,
+          "radiusPercent": 5.7,
+          "description": "Flip cap on water bottle on wooden bench changed from blue to white"
+        },
+        {
+          "id": "d_39_2",
+          "name": "Net Winch Handle",
+          "xPercent": 25.4,
+          "yPercent": 31.6,
+          "altXPercent": 25.4,
+          "altYPercent": 31.5,
+          "radiusPercent": 6.8,
+          "description": "Chrome tensioner winch crank handle on tennis net post missing in bottom image"
+        },
+        {
+          "id": "d_39_3",
+          "name": "Racket Grip Tape",
+          "xPercent": 22.1,
+          "yPercent": 46.3,
+          "altXPercent": 22.3,
+          "altYPercent": 46.1,
+          "radiusPercent": 7.4,
+          "description": "Grip wrap tape on tennis racket handle changed from red to navy blue"
+        },
+        {
+          "id": "d_39_4",
+          "name": "Tennis Ball Can Lid",
+          "xPercent": 38.5,
+          "yPercent": 67.0,
+          "altXPercent": 38.5,
+          "altYPercent": 67.3,
+          "radiusPercent": 6.0,
+          "description": "Plastic lid on tennis ball canister changed from yellow to red"
+        },
+        {
+          "id": "d_39_5",
+          "name": "Chair Towel Stripe",
+          "xPercent": 91.7,
+          "yPercent": 60.6,
+          "altXPercent": 91.7,
+          "altYPercent": 60.9,
+          "radiusPercent": 7.4,
+          "description": "Navy blue athletic stripe across white towel on green courtside chair missing in bottom image"
+        }
+      ]
     }
   ],
-  "totalLevels": 8
+  "totalLevels": 9
 }
