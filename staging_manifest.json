@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "repo": "upworkpro9-sketch/spot-difference-levels",
   "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/",
   "levels": [
@@ -422,7 +422,68 @@
           "description": "Garden flower trimming pruners / shears handle color changed from red to black"
         }
       ]
+    },
+    {
+      "id": 38,
+      "title": "Home Recording Music Studio",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 38.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2038.webp",
+      "differences": [
+        {
+          "id": "d_38_1",
+          "name": "Guitar Pickup Selector",
+          "xPercent": 6.3,
+          "yPercent": 59.4,
+          "altXPercent": 6.3,
+          "altYPercent": 59.1,
+          "radiusPercent": 4.7,
+          "description": "Upper toggle pickup selector switch ring on red electric guitar body"
+        },
+        {
+          "id": "d_38_2",
+          "name": "Guitar Pickguard",
+          "xPercent": 16.1,
+          "yPercent": 68.6,
+          "altXPercent": 16.1,
+          "altYPercent": 68.6,
+          "radiusPercent": 6.0,
+          "description": "Cream-colored pickguard scratch plate on red electric guitar"
+        },
+        {
+          "id": "d_38_3",
+          "name": "Monitor Speaker Knob",
+          "xPercent": 22.4,
+          "yPercent": 37.0,
+          "altXPercent": 22.1,
+          "altYPercent": 37.2,
+          "radiusPercent": 3.7,
+          "description": "Circular volume knob on left studio monitor speaker changed from silver to black"
+        },
+        {
+          "id": "d_38_4",
+          "name": "Microphone Pop Filter",
+          "xPercent": 38.7,
+          "yPercent": 15.2,
+          "altXPercent": 38.7,
+          "altYPercent": 15.3,
+          "radiusPercent": 7.4,
+          "description": "Round mesh pop filter shield attached to studio condenser microphone boom arm"
+        },
+        {
+          "id": "d_38_5",
+          "name": "Keyboard Control Knob",
+          "xPercent": 43.9,
+          "yPercent": 47.2,
+          "altXPercent": 43.8,
+          "altYPercent": 47.1,
+          "radiusPercent": 3.7,
+          "description": "Rotary parameter knob on MIDI keyboard synthesizer changed from red to white"
+        }
+      ]
     }
   ],
-  "totalLevels": 7
+  "totalLevels": 8
 }
