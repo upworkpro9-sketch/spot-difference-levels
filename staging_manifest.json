@@ -605,7 +605,68 @@
           "description": "Wingtip navigation position light on right upward winglet changed from red to blue"
         }
       ]
+    },
+    {
+      "id": 41,
+      "title": "Rainy Kyoto Alley Ramen Shop",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 41.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2041.webp",
+      "differences": [
+        {
+          "id": "d_41_1",
+          "name": "Bicycle Bell",
+          "xPercent": 24.1,
+          "yPercent": 36.4,
+          "altXPercent": 23.7,
+          "altYPercent": 35.2,
+          "radiusPercent": 5.6,
+          "description": "Handlebar bell on vintage red bicycle changed from chrome silver to black"
+        },
+        {
+          "id": "d_41_2",
+          "name": "Curtain Tassel",
+          "xPercent": 50.0,
+          "yPercent": 47.7,
+          "altXPercent": 50.0,
+          "altYPercent": 47.6,
+          "radiusPercent": 6.5,
+          "description": "Hanging cream-colored tassel ornament on red noren entrance curtain missing in bottom image"
+        },
+        {
+          "id": "d_41_3",
+          "name": "Stool Leg Tip",
+          "xPercent": 67.5,
+          "yPercent": 77.4,
+          "altXPercent": 67.7,
+          "altYPercent": 78.1,
+          "radiusPercent": 5.6,
+          "description": "Bottom tip sleeve on wooden dining stool leg changed from black to light wood"
+        },
+        {
+          "id": "d_41_4",
+          "name": "Chopsticks in Bowl",
+          "xPercent": 69.7,
+          "yPercent": 36.5,
+          "altXPercent": 69.6,
+          "altYPercent": 36.2,
+          "radiusPercent": 6.0,
+          "description": "Colored tips of wooden chopsticks resting on ramen bowl changed from red to blue"
+        },
+        {
+          "id": "d_41_5",
+          "name": "Paper Lantern Tassel",
+          "xPercent": 87.2,
+          "yPercent": 33.4,
+          "altXPercent": 86.8,
+          "altYPercent": 31.2,
+          "radiusPercent": 8.4,
+          "description": "Decorative red fringe tassel hanging beneath illuminated paper lantern missing in bottom image"
+        }
+      ]
     }
   ],
-  "totalLevels": 10
+  "totalLevels": 11
 }
