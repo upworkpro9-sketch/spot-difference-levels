@@ -849,7 +849,68 @@
           "description": "Rectangular terracotta clay scraper tile resting beside natural sponge is missing in bottom view"
         }
       ]
+    },
+    {
+      "id": 45,
+      "title": "Riverside Bicycle Repair Station",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 45.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2045.webp",
+      "differences": [
+        {
+          "id": "d_45_1",
+          "name": "Saddle Bag Buckle",
+          "xPercent": 19.4,
+          "yPercent": 25.1,
+          "altXPercent": 19.4,
+          "altYPercent": 25.0,
+          "radiusPercent": 5.2,
+          "description": "Golden metal buckle clasp on canvas bike saddle bag is missing in bottom view"
+        },
+        {
+          "id": "d_45_2",
+          "name": "Stand Clamp Knob",
+          "xPercent": 36.0,
+          "yPercent": 31.2,
+          "altXPercent": 36.0,
+          "altYPercent": 31.1,
+          "radiusPercent": 5.2,
+          "description": "Red tightening knob on the repair workstand clamp is missing in bottom view"
+        },
+        {
+          "id": "d_45_3",
+          "name": "Handlebar Bell",
+          "xPercent": 46.8,
+          "yPercent": 14.3,
+          "altXPercent": 46.8,
+          "altYPercent": 15.4,
+          "radiusPercent": 5.2,
+          "description": "Silver bell mounted on the bicycle handlebar is missing in bottom view"
+        },
+        {
+          "id": "d_45_4",
+          "name": "Air Pump Cap",
+          "xPercent": 78.6,
+          "yPercent": 73.4,
+          "altXPercent": 78.6,
+          "altYPercent": 73.4,
+          "radiusPercent": 5.2,
+          "description": "Light blue end cap on portable bicycle hand pump handle changed to black in bottom view"
+        },
+        {
+          "id": "d_45_5",
+          "name": "Oil Bottle Nozzle",
+          "xPercent": 85.5,
+          "yPercent": 62.4,
+          "altXPercent": 85.5,
+          "altYPercent": 62.4,
+          "radiusPercent": 5.2,
+          "description": "Yellow applicator nozzle tip on chain lubricant squeeze bottle changed to white in bottom view"
+        }
+      ]
     }
   ],
-  "totalLevels": 14
+  "totalLevels": 15
 }
