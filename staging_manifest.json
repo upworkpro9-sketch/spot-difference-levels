@@ -727,7 +727,68 @@
           "description": "Fresh green pine needle sprig behind pinecone missing in bottom image"
         }
       ]
+    },
+    {
+      "id": 43,
+      "title": "Lake Wetland Birdwatching Hide",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 43.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2043.webp",
+      "differences": [
+        {
+          "id": "d_43_1",
+          "name": "Binocular Lens Cap",
+          "xPercent": 18.5,
+          "yPercent": 69.8,
+          "altXPercent": 18.5,
+          "altYPercent": 69.8,
+          "radiusPercent": 5.2,
+          "description": "Lens cap on left binoculars is removed, revealing the glass lens in bottom view"
+        },
+        {
+          "id": "d_43_2",
+          "name": "Thermos Flask Lid",
+          "xPercent": 31.1,
+          "yPercent": 49.3,
+          "altXPercent": 31.1,
+          "altYPercent": 49.1,
+          "radiusPercent": 4.7,
+          "description": "Silver stainless steel thermos cup cap changed to a black cap in bottom view"
+        },
+        {
+          "id": "d_43_3",
+          "name": "Egret Beak",
+          "xPercent": 44.6,
+          "yPercent": 34.3,
+          "altXPercent": 44.6,
+          "altYPercent": 34.1,
+          "radiusPercent": 1.6,
+          "description": "White egret standing in wetland has an open beak with mark in bottom view"
+        },
+        {
+          "id": "d_43_4",
+          "name": "Notebook Strap",
+          "xPercent": 47.4,
+          "yPercent": 71.5,
+          "altXPercent": 47.4,
+          "altYPercent": 71.4,
+          "radiusPercent": 8.5,
+          "description": "Black elastic closure band wrapped around hardcover journal is missing in bottom view"
+        },
+        {
+          "id": "d_43_5",
+          "name": "Wood Post Bird",
+          "xPercent": 89.9,
+          "yPercent": 29.3,
+          "altXPercent": 90.3,
+          "altYPercent": 28.5,
+          "radiusPercent": 5.0,
+          "description": "Small songbird perched on wooden fence post in the marsh is missing in bottom view"
+        }
+      ]
     }
   ],
-  "totalLevels": 12
+  "totalLevels": 13
 }
