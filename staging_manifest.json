@@ -666,7 +666,68 @@
           "description": "Decorative red fringe tassel hanging beneath illuminated paper lantern missing in bottom image"
         }
       ]
+    },
+    {
+      "id": 42,
+      "title": "Autumn Forest Creek & Waterfall",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 42.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2042.webp",
+      "differences": [
+        {
+          "id": "d_42_1",
+          "name": "Mushroom Cap",
+          "xPercent": 17.7,
+          "yPercent": 46.8,
+          "altXPercent": 17.7,
+          "altYPercent": 46.2,
+          "radiusPercent": 6.1,
+          "description": "Right rim of brown woodland mushroom cap has a chipped white notch"
+        },
+        {
+          "id": "d_42_2",
+          "name": "Rock Lichen Patch",
+          "xPercent": 22.5,
+          "yPercent": 79.1,
+          "altXPercent": 22.5,
+          "altYPercent": 79.1,
+          "radiusPercent": 6.1,
+          "description": "Lichen crust patch on mossy boulder changed from light grey to dark reddish-brown"
+        },
+        {
+          "id": "d_42_3",
+          "name": "Log Hollow End",
+          "xPercent": 36.7,
+          "yPercent": 39.7,
+          "altXPercent": 36.7,
+          "altYPercent": 39.7,
+          "radiusPercent": 6.1,
+          "description": "Fallen mossy log end has a dark hollow opening cavity instead of solid tree rings"
+        },
+        {
+          "id": "d_42_4",
+          "name": "Trunk Peeling Bark",
+          "xPercent": 89.9,
+          "yPercent": 23.4,
+          "altXPercent": 89.9,
+          "altYPercent": 23.2,
+          "radiusPercent": 7.1,
+          "description": "Curled peeling bark strip on old tree trunk missing in bottom image"
+        },
+        {
+          "id": "d_42_5",
+          "name": "Pinecone Needle",
+          "xPercent": 91.0,
+          "yPercent": 74.9,
+          "altXPercent": 91.0,
+          "altYPercent": 74.7,
+          "radiusPercent": 7.1,
+          "description": "Fresh green pine needle sprig behind pinecone missing in bottom image"
+        }
+      ]
     }
   ],
-  "totalLevels": 11
+  "totalLevels": 12
 }
