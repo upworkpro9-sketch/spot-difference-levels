@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-10",
+  "lastUpdated": "2026-09-11",
   "repo": "upworkpro9-sketch/spot-difference-levels",
   "imageBaseUrl": "https://raw.githubusercontent.com/upworkpro9-sketch/spot-difference-levels/main/",
   "levels": [
@@ -788,7 +788,68 @@
           "description": "Small songbird perched on wooden fence post in the marsh is missing in bottom view"
         }
       ]
+    },
+    {
+      "id": 44,
+      "title": "Artisan Pottery & Ceramic Workshop",
+      "difficulty": "Medium",
+      "timeLimit": 120,
+      "totalDifferences": 5,
+      "imageFileName": "Level 44.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/upworkpro9-sketch/spot-difference-levels@main/Level%2044.webp",
+      "differences": [
+        {
+          "id": "d_44_1",
+          "name": "Clay Modeling Tool",
+          "xPercent": 16.5,
+          "yPercent": 61.2,
+          "altXPercent": 17.4,
+          "altYPercent": 61.1,
+          "radiusPercent": 9.3,
+          "description": "Flat wooden pottery modeling tool placed across the small clay bowl is missing in bottom view"
+        },
+        {
+          "id": "d_44_2",
+          "name": "Vase Neck Twine",
+          "xPercent": 42.1,
+          "yPercent": 39.0,
+          "altXPercent": 42.1,
+          "altYPercent": 38.9,
+          "radiusPercent": 11.5,
+          "description": "Tied jute twine rope cord with knot around clay vase neck is missing in bottom view"
+        },
+        {
+          "id": "d_44_3",
+          "name": "Paintbrush Ferrule",
+          "xPercent": 73.7,
+          "yPercent": 64.6,
+          "altXPercent": 73.8,
+          "altYPercent": 64.5,
+          "radiusPercent": 2.4,
+          "description": "Dark metal ferrule band wrapped on glaze paintbrush handle is missing in bottom view"
+        },
+        {
+          "id": "d_44_4",
+          "name": "Rolling Pin Ring",
+          "xPercent": 82.2,
+          "yPercent": 89.3,
+          "altXPercent": 81.2,
+          "altYPercent": 89.0,
+          "radiusPercent": 8.0,
+          "description": "Metal hanging loop ring attached to right handle of wooden rolling pin is missing in bottom view"
+        },
+        {
+          "id": "d_44_5",
+          "name": "Terracotta Scraper",
+          "xPercent": 91.5,
+          "yPercent": 74.8,
+          "altXPercent": 91.5,
+          "altYPercent": 75.9,
+          "radiusPercent": 10.5,
+          "description": "Rectangular terracotta clay scraper tile resting beside natural sponge is missing in bottom view"
+        }
+      ]
     }
   ],
-  "totalLevels": 13
+  "totalLevels": 14
 }
